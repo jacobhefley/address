@@ -1,0 +1,9 @@
+li{
+	font-size: 2em;
+}
+input[type=text] {
+    text-transform: capitalize;
+    }
+h1{
+	text-align: center;
+    }
